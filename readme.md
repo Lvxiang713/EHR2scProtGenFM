@@ -3,7 +3,8 @@
 A PyTorch-based pipeline for generating single-cell protein expression profiles conditioned on electronic health record (EHR) embeddings, combining a CLIP‐style contrastive learning with a Gaussian diffusion model.
 
 ---
-<img width="7874" height="10236" alt="Figure1拼接" src="https://github.com/user-attachments/assets/381b0974-d927-4f90-98bf-7387188bf4fb" />
+
+![Figure1拼接](https://github.com/user-attachments/assets/1afde13b-33e8-4230-88c5-a3242a04d4ab)
 
 
 ## Table of Contents
