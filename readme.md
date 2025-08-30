@@ -4,7 +4,8 @@ A PyTorch-based pipeline for generating single-cell protein expression profiles 
 
 ---
 
-![Figure1拼接](https://github.com/user-attachments/assets/1afde13b-33e8-4230-88c5-a3242a04d4ab)
+
+[Figure1拼接.tif](https://github.com/user-attachments/files/22058759/Figure1.tif)
 
 
 ## Table of Contents
